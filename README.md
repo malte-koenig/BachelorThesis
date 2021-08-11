@@ -1,4 +1,4 @@
-# BachelorThesis
+# Code for Bachelor Thesis - Human Bias in Song Lyrics
 
 Song lyrics were provided by the [Wasabi Research Group](http://wasabihome.i3s.unice.fr/)
 
