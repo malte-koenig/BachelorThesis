@@ -15,8 +15,8 @@ The resulting enriched lyrical Dataset 'songs_enriched' was used for Word Embedd
 ## Word Embeddings Training
 
 Word2Vec and FastText embeddings were trained in [word_embeddings.ipynb](word_embeddings.ipynb)  
-GloVe embeddings were trained with the following code https://nlp.stanford.edu/projects/glove/  
-"Compass Embeddings" were trained with the following code https://github.com/valedica/twec  
+GloVe embeddings were trained with the downloadable implementation of the follwing website: https://nlp.stanford.edu/projects/glove/  
+"Compass Embeddings" were trained with the implementation found in the following public repository:  https://github.com/valedica/twec  
 
 ## LDA Topic Modeling
 
