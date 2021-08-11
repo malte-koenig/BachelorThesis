@@ -1,10 +1,10 @@
 # Code for Bachelor Thesis - Human Bias in Song Lyrics
 
-Song lyrics were provided by the [Wasabi Research Group](http://wasabihome.i3s.unice.fr/)
+The song lyrics datset was provided by the [Wasabi Research Group](http://wasabihome.i3s.unice.fr/). It is not included in this repository for legal reasons.
 
 ## Meta Data Enriching
 
-The lyrical dataset was enriched with meta data in [enrich_metadata.ipynb](enrich_metadata.ipynb)
+The lyrical dataset was enriched with meta data (genre, publication dates) in [enrich_metadata.ipynb](enrich_metadata.ipynb)
 
 Information about Song Genres were taken from the [WasabiDataset](https://github.com/micbuffa/WasabiDataset)
 Some additional Genre assignments were done manually
