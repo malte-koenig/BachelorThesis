@@ -10,7 +10,7 @@ Information about Song Genres were taken from the [WasabiDataset](https://github
 Some additional Genre assignments were done manually
 Further information about publication dates were obtained from the Website of the [Million Song Dataset](http://millionsongdataset.com/sites/default/files/AdditionalFiles/tracks_per_year.txt)
 
-The resulting enriched lyrical Dataset 'songs' was used for Word Embeddings Training and LDA Topic Modeling
+The resulting enriched lyrical Dataset 'songs_enriched' was used for Word Embeddings Training and LDA Topic Modeling
 
 ## Word Embeddings Training
 
@@ -20,7 +20,7 @@ GloVe embeddings were trained with the following code https://nlp.stanford.edu/p
 
 ## LDA Topic Modeling
 
-LDA topic model was trained in [topic_modeling.ipynb](topic_modeling.ipynb)
+LDA topic model was applied in [topic_modeling.ipynb](topic_modeling.ipynb)
 
 ## WordClouds
 
